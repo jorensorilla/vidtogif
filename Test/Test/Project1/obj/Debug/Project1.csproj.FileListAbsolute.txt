@@ -1,0 +1,10 @@
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project1\bin\Debug\Project1.exe.config
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project1\bin\Debug\Project1.exe
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project1\bin\Debug\Project1.pdb
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project1\obj\Debug\Project1.exe
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project1\obj\Debug\Project1.pdb
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project1\bin\Debug\Excel.dll
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project1\bin\Debug\Excel.xml
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project1\obj\Debug\Project1.MainForm.resources
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache

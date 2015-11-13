@@ -1,0 +1,8 @@
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project2\bin\Debug\Project2.exe.config
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project2\bin\Debug\Project2.exe
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project2\bin\Debug\Project2.pdb
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project2\obj\Debug\Project2.exe
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project2\obj\Debug\Project2.pdb
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project2\bin\Debug\Excel.dll
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\Project2\bin\Debug\Excel.xml
