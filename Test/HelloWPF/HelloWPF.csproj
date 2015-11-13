@@ -90,24 +90,32 @@
     </Compile>
     <Compile Include="FMMPEGWrapper.cs" />
     <Compile Include="ImageFormat.cs" />
+    <Compile Include="Models\IConverter.cs" />
+    <Compile Include="Models\Video.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\WPFAssemblyInfo.cs" />
-    <Compile Include="Window1.xaml.cs">
+    <Compile Include="ViewModels\MainWindowViewModel.cs" />
+    <Compile Include="Views\Window1.xaml.cs">
       <SubType>Code</SubType>
       <DependentUpon>Window1.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Include="Window1.xaml" />
+    <Page Include="Views\Window1.xaml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
     <None Include="FFmpeg\ffmpeg.exe" />
+    <None Include="FFmpeg\ffprobe.exe" />
     <None Include="FFmpeg\README.txt" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="FFmpeg" />
+    <Folder Include="Commands" />
+    <Folder Include="Models" />
+    <Folder Include="Views" />
+    <Folder Include="ViewModels" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

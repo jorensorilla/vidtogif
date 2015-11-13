@@ -2,8 +2,6 @@ C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\bin\Debu
 C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\bin\Debug\HelloWPF.exe
 C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\bin\Debug\HelloWPF.pdb
 C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\obj\Debug\HelloWPF.csprojResolveAssemblyReference.cache
-C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\obj\Debug\Window1.baml
-C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\obj\Debug\Window1.g.cs
 C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\obj\Debug\App.g.cs
 C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
 C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\obj\Debug\HelloWPF.g.resources
@@ -17,3 +15,5 @@ C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\bin\Debu
 C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\bin\Debug\Vlc.DotNet.Forms.dll
 C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\bin\Debug\Vlc.DotNet.Wpf.dll
 C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\obj\Debug\Views\Window1.baml
+C:\Users\juan.l.d.sorilla\Documents\SharpDevelop Projects\Test\HelloWPF\obj\Debug\Views\Window1.g.cs

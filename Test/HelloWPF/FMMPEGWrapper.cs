@@ -7,6 +7,9 @@
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
+using System.IO;
+using System.Reflection;
+
 
 namespace HelloWPF
 {
@@ -34,9 +37,12 @@ namespace HelloWPF
 			string ffmpeg_path = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"FFmpeg/ffmpeg");
 			startInfo.Arguments = ffmpeg_path+" -i "+file_path+" -ss "+start+" -to "+end+" -r "+fps+" -s "+resolution_x
 				+"x"+resolution_y+" -f image2 "+output_path+"image%03d."+image_format;
-			
-			process.StartInfo = startInfo;
-			process.Start();
+			try{
+				process.StartInfo = startInfo;
+				process.Start();
+			}catch(Exception e){
+				System.Console.WriteLine(e.Message);
+			}
 		}
 	}
 }

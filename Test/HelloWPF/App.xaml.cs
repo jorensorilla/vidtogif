@@ -3,7 +3,8 @@ using System.Windows;
 using System.Data;
 using System.Xml;
 using System.Configuration;
-
+using HelloWPF.ViewModels;
+using HelloWPF.Views;
 namespace HelloWPF
 {
 	/// <summary>
@@ -11,12 +12,15 @@ namespace HelloWPF
 	/// </summary>
 	public partial class App : Application
 	{
-			private void Application_Startup(object sender, StartupEventArgs e)
-                {
-                        Window1 wnd = new Window1();
-                        if(e.Args.Length == 1)
-                                MessageBox.Show("Now opening file: \n\n" + e.Args[0]);
-                        wnd.Show();
-                }
+		
+		public App()
+		{
+			new Window1()
+			{
+				DataContext = new MainWindowViewModel()
+			}.Show();
+		}
+		
+		
 	}
 }
